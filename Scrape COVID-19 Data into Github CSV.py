@@ -120,7 +120,7 @@ filetotal_csv.close()
 
 
 from github import Github
-g = Github("Abdelaziz-Nabil", "#Zezo20182023")
+g = Github("user name ex:Abdelaziz-Nabil", "password")
 
 
 # In[10]:
